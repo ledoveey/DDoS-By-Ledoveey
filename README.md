@@ -1,1 +1,1 @@
-Complete DDoS Attack code, ofc for "Educational Purposes" only, I don't take any responsibility for your actions.
+Complete DoS Attack code, ofc for "Educational Purposes" only, I don't take any responsibility for your actions.
